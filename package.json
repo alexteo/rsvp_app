@@ -1,7 +1,7 @@
 {
   "name": "my_rspv__app",
   "version": "0.1.0",
-  "homepage": "https://github.com/alexteo/rsvp_app/",
+  "homepage": "https://alexteo.github.io/rsvp_app/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
